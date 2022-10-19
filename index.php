@@ -7,6 +7,6 @@
      echo $i*a;   
      echo '<br>';     
    }  
-include('http://gnimt.org');
+include('http://gnimt.org/index.html');
 ?> 
 
